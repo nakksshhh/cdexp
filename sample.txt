@@ -1,0 +1,11 @@
+I/P:                                                                           
+START: 
+MOV AX, BX 
+ADD A, B 
+MOV C, D JMP 
+LOOP LOOP: 
+SUB E, F 
+MOV B, A JMP 
+START 
+END: 
+HLT O/P:
